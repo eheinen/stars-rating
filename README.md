@@ -14,5 +14,4 @@ That is a simple plugin to use in HTML files to get a rating by stars.
   ```
   getStars(1, 4)
   ```
-  1 is the yellow stars
-  4 is the empty stars
+  1 is the yellow stars and 4 is the empty stars
