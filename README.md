@@ -2,7 +2,7 @@
 
 That is a simple plugin to use in HTML files to get a rating by stars.
 
-### Installation
+## How to use
   - First of all, download the zip or get the repository;
   - In your html add this code to include the stars automatically:
   ```
