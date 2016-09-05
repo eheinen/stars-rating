@@ -10,7 +10,7 @@ That is a simple plugin to use in HTML files to get a rating by stars.
   ```
   In the dataset data-starsfull you will fill how many yellow stars you want and in the data-starsempty you will informe how many empty stars you want.
   
-  If you would like to get the HTML but use of another way, just call the function:
+  - If you would like to get the HTML but use of another way, just call the function:
   ```
   getStars(1, 4)
   ```
